@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010480131675",
+    "project_id": "film-arsivim-d9c09",
+    "storage_bucket": "film-arsivim-d9c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010480131675:android:e8ebf9e9e6d52f30ee997e",
+        "android_client_info": {
+          "package_name": "com.example.filmarsivim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3FNcBDebrn5oOiV7S6mWF_ZeytQ_hvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
